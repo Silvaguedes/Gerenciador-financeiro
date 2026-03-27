@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Controle Financeiro</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <div class="container">
+
+        <h1>💰 Controle Financeiro</h1>
+
+        <div class="saldo">
+            <h2>Saldo</h2>
+            <span id="saldo">R$ 0,00</span>
+        </div>
+
+
+
+        <form id="form">
+            <input type="text" id="descricao" placeholder="Descrição" required>
+            <input type="number" id="valor" placeholder="Valor (use negativo para saída)" required>
+            <button type="submit">Adicionar</button>
+        </form>
+
+        <ul id="lista" class="lista"></ul>
+
+    </div>
+
+
+    <div class="resumo">
+        <div>
+            <h3>Entradas</h3>
+            <p id="entrada">R$ 0</p>
+        </div>
+
+        <div>
+            <h3>Saídas</h3>
+            <p id="saida">R$ 0</p>
+        </div>
+    </div>
+
+   <div class="grafico-container">
+    <canvas id="grafico"></canvas>
+</div>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
