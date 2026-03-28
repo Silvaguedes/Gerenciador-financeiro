@@ -4,7 +4,7 @@
 
 <img src="./assets/controle-gasto-0.png" width="400">
 
-Aplicação web simples e funcional para controle de finanças pessoais, permitindo registrar entradas e saídas, visualizar saldo total e acompanhar os gastos através de um gráfico dinâmico.
+Aplicação web simples e funcional para controle de finanças pessoais, permitindo registrar entradas e saídas, visualizar saldo total e acompanhar os gastos através de um gráfico dinamico.
 
 ---
 
