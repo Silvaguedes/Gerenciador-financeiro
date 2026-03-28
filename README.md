@@ -2,7 +2,7 @@
 
 ## 📸 Preview do Projeto
 
-<img src="./assets/print-controle-gasto.png" width="600">
+<img src="./assets/controle-gasto-0.png.png" width="400">
 
 Aplicação web simples e funcional para controle de finanças pessoais, permitindo registrar entradas e saídas, visualizar saldo total e acompanhar os gastos através de um gráfico dinâmico.
 
@@ -52,3 +52,4 @@ Desenvolvido por **Aldair Guedes**
 Este projeto foi desenvolvido com o objetivo de praticar e demonstrar habilidades em desenvolvimento web, com foco em JavaScript e manipulação de dados no front-end.
 
 ---
+<img src="./assets/controle-gasto-1.png.png" width="400">
